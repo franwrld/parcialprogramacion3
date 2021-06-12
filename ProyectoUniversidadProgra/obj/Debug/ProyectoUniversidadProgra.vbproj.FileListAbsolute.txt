@@ -1,0 +1,77 @@
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Estudiantes.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.menu.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Resources.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe.config
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.xml
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.exe
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.xml
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Docentes.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Asignatura.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Periodo.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Ciclo.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.FeEstudio.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Seccion.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Matricula.resources
+C:\Users\usuario\source\repos\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Notas.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe.config
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.xml
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.AssemblyReference.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Asignatura.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Matricula.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Notas.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Docentes.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Estudiantes.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.menu.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Resources.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.GenerateResource.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.CoreCompileInputs.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.exe
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.xml
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.ListarNotasAlumnos.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Asignatura.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.ListarNotasAlumnos.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Matricula.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Notas.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Docentes.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Estudiantes.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.menu.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Resources.resources
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.GenerateResource.cache
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.exe
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.xml
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe.config
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.xml
+C:\Users\usuario\Desktop\proyectoprogra\ProyectoUniversidadProgra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.boletadenotas.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe.config
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.exe
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.pdb
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\bin\Debug\ProyectoUniversidadProgra.xml
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.AssemblyReference.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Asignatura.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.boletadenotas.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.ListarNotasAlumnos.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Matricula.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Notas.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Docentes.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Estudiantes.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.menu.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.Resources.resources
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.GenerateResource.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.vbproj.CoreCompileInputs.cache
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.exe
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.xml
+C:\Users\RUIZ\Documents\Fran UNICAES\Ciclo l 2021\Programacion Orientada a Objetos\Periodo 3\parcialprogra\ProyectoUniversidadProgra\obj\Debug\ProyectoUniversidadProgra.pdb

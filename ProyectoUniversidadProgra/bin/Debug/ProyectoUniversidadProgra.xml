@@ -1,0 +1,1076 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProyectoUniversidadProgra
+</name>
+</assembly>
+<members>
+<member name="T:ProyectoUniversidadProgra.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:ProyectoUniversidadProgra.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:ProyectoUniversidadProgra.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:ProyectoUniversidadProgra.My.Resources.Resources.Imagen1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProyectoUniversidadProgra.My.Resources.Resources.WhatsApp_Image_2021_06_06_at_08_31_14">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet.EstudiantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet.EstudiantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet.EstudiantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.EstudiantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1.DocenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1.DocenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1.DocenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.DocenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10.DocenteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10.DocenteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10.DocenteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.DocenteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet10TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11.MatriculaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11.MatriculaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11.MatriculaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.MatriculaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet11TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12.EstudiantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12.EstudiantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12.EstudiantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.EstudiantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet12TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13.BoletaDeNotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13.BoletaDeNotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13.BoletaDeNotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.BoletaDeNotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet13TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14.DetalleNotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14.DetalleNotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14.DetalleNotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.DetalleNotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet14TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15.listnotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15.listnotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15.listnotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.listnotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet15TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2.AsignaturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2.AsignaturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2.AsignaturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.AsignaturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3.MatriculaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3.MatriculaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3.MatriculaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.MatriculaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4.DetalleNotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4.DetalleNotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4.DetalleNotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.DetalleNotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5.BoletaDeNotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5.BoletaDeNotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5.BoletaDeNotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.BoletaDeNotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6.BoletaDeNotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6.BoletaDeNotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6.BoletaDeNotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.BoletaDeNotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7.EstudiantesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7.EstudiantesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7.EstudiantesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.EstudiantesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8.listarnotasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8.listarnotasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8.listarnotasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.listarnotasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet8TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9.DetalleNotaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9.DetalleNotaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9.DetalleNotaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.DetalleNotaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.UpdateUpdatedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.UpdateInsertedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.UpdateDeletedRows(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.UpdateAll(ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ProyectoUniversidadProgra.SistemaRegistroNotasDataSet9TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
